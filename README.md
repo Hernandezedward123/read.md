@@ -1,4 +1,4 @@
-# RHC_CIT114
+# RHC_CIT114 NOTES 2
 ## 1) Devops Culture
 -Devops tries to make a culture to help people change things to make it more effective
 -Older ideas will remain and will be slightly weaved to work better
