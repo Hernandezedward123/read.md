@@ -19,11 +19,11 @@ Assess the risk
 -New ways- Worked on VM, testing took mins, can deploy w/o needing Ops,and deploy live in 10
 -Devops meant to work together leading to less mistake if theres alot of separations 
 ## 6) 1940s: Devs were Operator
- Hardware was the main focus, not the operators 
-Manual process
+-Hardware was the main focus, not the operators 
+-Manual process
 ## 7) 1960s: Rise of software engineering
-Management gave teams freedom & trust
-A Lot of testing for integrations 
-Software and hardware advancements 
-Global community of user groups 
+-Management gave teams freedom & trust
+-A Lot of testing for integrations 
+-Software and hardware advancements 
+-Global community of user groups 
 ## 8) 2000s:Growth of Social media and open source
